@@ -4,3 +4,7 @@ since i do most of my development locally on my machine, this repository won't b
 
 a GUI version and a Windows port is planned.
 https://makulaturka.tk
+
+## Usage
+
+forg [OPTIONS] [FILE]
